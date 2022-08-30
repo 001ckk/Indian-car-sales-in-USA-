@@ -1,23 +1,23 @@
 # Indian-car-sales-in-USA-
 
-#**Introduction**
+***Introduction***
 
 Finding a good car can sometimes be a hustle especially for first time car owners. This can be attributed to the fact that it is very easy to get conned into buying a vehicle that does not serve your purpose for the period you intend to own the vehicle. It might also be equally hard to resell your vehicle once you are done with it and you may end up selling it at a throw away price.
 It is equally hard for car dealers, especially second hand car dealers whose whole business is to buy and sell used cars as they face almost similar problems in selling second hand vehicles.
 It is therefore really important to understand how the second hand car market works before committing to purchase the car of your dreams.
 
 
-**General Objective**
+***General Objective**
 
 Create a model that predicts if a dealer will manage to sell a used car or not.
 
-**Problem Statement**
+***Problem Statement**
 
 A dealer may purchase a vehicle that is hard to resale which will adversely affect his business in terms of very low profits and sometimes losses which might end up putting him out of business.
 It is therefore really important for second hand car dealers to understand which vehicles to purchase for resale to increase his profit margins.
 
 
-**Metrics for success**
+***Metrics for success**
 
 Visualising the relationships between actual productivity and the predictor variables.
 
@@ -27,7 +27,7 @@ Identifying the top factors influencing the sale of a vehicle.
 
 Deployment of best model []
 
-**Recording experimental design**
+***Recording experimental design**
 
 1. Determine the main objectives
 
@@ -44,7 +44,7 @@ Deployment of best model []
 7. Conclusion and recommendations
 
 
-**Column Definition**
+***Column Definition**
 
 1. Sales_ID (Sales ID)
 
