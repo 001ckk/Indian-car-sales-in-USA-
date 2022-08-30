@@ -29,53 +29,53 @@ Deployment of best model []
 
 **Recording experimental design**
 
-Determine the main objectives
+1. Determine the main objectives
 
-Load and preview the dataset.
+2. Load and preview the dataset.
 
-Understand the data.
+3. Understand the data.
 
-Prepare the dataset - Identify outliers, anomalies, duplicates, missing values, and determine how deal with them etc.
+4. Prepare the dataset - Identify outliers, anomalies, duplicates, missing values, and determine how deal with them etc.
 
-Carry out univariate analysis, bivariate analysis, and modelling.
+5. Carry out univariate analysis, bivariate analysis, and modelling.
 
-Challenge the solution.
+6. Challenge the solution.
 
-Conclusion and recommendations
+7. Conclusion and recommendations
 
 
 **Column Definition**
 
-Sales_ID (Sales ID)
+1. Sales_ID (Sales ID)
 
-name (Name of the used car)
+2. name (Name of the used car)
 
-year (Year of the car purchase)
+3 year (Year of the car purchase)
 
-selling_price (Current selling price for used car)
+4. selling_price (Current selling price for used car)
 
-km_driven (Total km driven)
+5. km_driven (Total km driven)
 
-Region (Region where it is used)
+6. Region (Region where it is used)
 
-State or Province (State or Province where it is used)
+7. State or Province (State or Province where it is used)
 
-City (City where it is used)
+8. City (City where it is used)
 
-fuel (Fuel type)
+9. fuel (Fuel type)
 
-seller_type (Who is selling the car)
+10. seller_type (Who is selling the car)
 
-transmission (Transmission type of the car)
+11. transmission (Transmission type of the car)
 
-owner (Owner type)
+12. owner (Owner type)
 
-mileage (Mileage of the car)
+13. mileage (Mileage of the car)
 
-engine (engine power)
+14. engine (engine power)
 
-max_power (max power)
+15. max_power (max power)
 
-seats (Number of seats)
+16. seats (Number of seats)
 
-sold (used car sold or not)
+17. sold (used car sold or not)
