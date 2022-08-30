@@ -50,7 +50,7 @@ Deployment of best model []
 
 2. name (Name of the used car)
 
-3 year (Year of the car purchase)
+3. year (Year of the car purchase)
 
 4. selling_price (Current selling price for used car)
 
