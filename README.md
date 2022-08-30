@@ -20,39 +20,62 @@ It is therefore really important for second hand car dealers to understand which
 **Metrics for success**
 
 Visualising the relationships between actual productivity and the predictor variables.
+
 Building a model that can predict if a car dealer will sell a car or not (Precision matrix of the 'no sale' class).
+
 Identifying the top factors influencing the sale of a vehicle.
+
 Deployment of best model []
 
 **Recording experimental design**
 
 Determine the main objectives
+
 Load and preview the dataset.
+
 Understand the data.
+
 Prepare the dataset - Identify outliers, anomalies, duplicates, missing values, and determine how deal with them etc.
+
 Carry out univariate analysis, bivariate analysis, and modelling.
+
 Challenge the solution.
+
 Conclusion and recommendations
 
-About the Dataset 
-The dataset has 7906 rows and 17 columns.
 
 **Column Definition**
 
 Sales_ID (Sales ID)
+
 name (Name of the used car)
+
 year (Year of the car purchase)
+
 selling_price (Current selling price for used car)
+
 km_driven (Total km driven)
+
 Region (Region where it is used)
+
 State or Province (State or Province where it is used)
+
 City (City where it is used)
+
 fuel (Fuel type)
+
 seller_type (Who is selling the car)
+
 transmission (Transmission type of the car)
+
 owner (Owner type)
+
 mileage (Mileage of the car)
+
 engine (engine power)
+
 max_power (max power)
+
 seats (Number of seats)
+
 sold (used car sold or not)
